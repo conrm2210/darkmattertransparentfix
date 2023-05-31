@@ -19,3 +19,21 @@
     --accent: 37, 172, 232;
     --accent-alt: 29, 101, 134;
 }
+
+
+//META{"name":"Discord Transparency Fix","description":"Fixes the latest discord transparency for Dark Matter theme.","author":"SynthSy","version":"0.0.1"}*//
+
+/* Overall layout */
+.flex-3B1Tl4 { 
+	background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.channelTextArea-1HTP3C { 
+	background: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Chatbox */
+
+form { 
+	background: rgba(0, 0, 0, 0.3) !important;
+}
